@@ -3,5 +3,5 @@
 
 
 Members: <br>
-Styliani Bourli, 424 <br>
-Panagiotis Kouzouglidis, 425 <br>
+Styliani Bourli, 425 <br>
+Panagiotis Kouzouglidis, 424 <br>
