@@ -1,5 +1,5 @@
 # OSNM-Project---2019-2020 <br>
-## Topic 1 - Structural diversity <br>
+## Topic 1: Structural diversity based on network embeddings <br>
 
 
 Members: <br>
